@@ -1,5 +1,7 @@
+package Assignment_1;
 
 public class Employee {
+
 
     private int salary;
 
